@@ -1,0 +1,84 @@
+/* 
+*{
+    background-c
+} */
+.navbar{
+    border: 2px;
+}
+.navbar-item{
+    padding-right: 10px;
+    margin-right: 70px;
+    padding-left: 1px;
+}
+.button{
+    margin-left: 80px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+    margin-right: 60px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.flower-bay{
+    font-size: 40px;
+    color: brown;
+    padding-top: 250px;
+    padding-left: 70px;
+}
+.flower-bay p{
+    color: rgb(148, 98, 98);
+}
+.col{
+    border: 1px;
+}
+/* .coll{
+    margin-right: 150px;
+    border-radius: 50%;
+    padding-left: 550px;
+    margin-top: 70px;
+} */
+.about{
+     margin-top: 70px; 
+    margin-left: 20px;
+    float: right;
+}
+.box p{
+    margin-left: 50px;
+}
+.cotton{
+    padding-top: 100px;
+    background-color: azure;
+}
+.image{
+    padding-left: 200px;
+}
+.load
+{
+    background-color: brown;
+    margin-top: 1px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.row-cols-4{
+color: white;
+}
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.just{
+    background-color: brown;
+
+}
+.justa{
+    background-color: azure;
+    padding-bottom: 50px;
+}
+.butt{
+    width: 300px;
+    background: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
